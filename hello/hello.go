@@ -6,6 +6,6 @@ func SayHi() {
 	fmt.Println("你好，我叫 wujie")
 }
 
-func SayHello(any string) {
-	fmt.Println("你好，我叫", any)
+func SayHello(anybody string) {
+	fmt.Println("你好，我叫", anybody)
 }
